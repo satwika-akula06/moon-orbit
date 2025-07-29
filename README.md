@@ -41,7 +41,10 @@ moon-orbit/
 
 ## 🎯 Demo Screenshot
 
-> *(Optional: Add a screenshot here if you'd like)*
+## 🎥 Preview
+
+[▶ Watch the preview video](preview.mp4)
+
 
 ## 📚 Learn More
 
